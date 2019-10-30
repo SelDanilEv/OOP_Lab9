@@ -1,0 +1,7 @@
+E:\Danil\university\OOTPIST\OOP_Lab9\OOP_Lab9\bin\Debug\OOP_Lab9.exe.config
+E:\Danil\university\OOTPIST\OOP_Lab9\OOP_Lab9\bin\Debug\OOP_Lab9.exe
+E:\Danil\university\OOTPIST\OOP_Lab9\OOP_Lab9\bin\Debug\OOP_Lab9.pdb
+E:\Danil\university\OOTPIST\OOP_Lab9\OOP_Lab9\obj\Debug\OOP_Lab9.csprojAssemblyReference.cache
+E:\Danil\university\OOTPIST\OOP_Lab9\OOP_Lab9\obj\Debug\OOP_Lab9.csproj.CoreCompileInputs.cache
+E:\Danil\university\OOTPIST\OOP_Lab9\OOP_Lab9\obj\Debug\OOP_Lab9.exe
+E:\Danil\university\OOTPIST\OOP_Lab9\OOP_Lab9\obj\Debug\OOP_Lab9.pdb
