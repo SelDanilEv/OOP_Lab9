@@ -39,6 +39,7 @@
     <Compile Include="Notification.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Programmer.cs" />
+    <Compile Include="StringTreatment.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
